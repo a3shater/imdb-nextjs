@@ -3,7 +3,7 @@ import Link from "next/link"
 type props={
     title:string,
     address:string,
-    Icon:any
+    Icon:anye
 }
 export default function MenuItem({title,address,Icon}:props){
     return (
